@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">YemekTarifleri</string>
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_dashboard">Tüm Yemekler</string>
+    <string name="title_notifications">Favori</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
